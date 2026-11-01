@@ -1,14 +1,9 @@
 # Estudos de TypeScript
 
-> Repositório de **Fernando HVC** para praticar e reforçar conceitos de programação.
+Esse repositório foi criado por mim, **Fernando HVC**, porque quero reforçar meus conhecimentos. Na faculdade de **Sistemas para Internet da UTFPR**, percebi a importância de conhecer conceitos e fundamentos para tomar decisões relacionadas à IA.
 
-## Objetivo
+Optei pelo **TypeScript** porque posso aplicar conceitos de POO em uma linguagem muito utilizada. Também não sou muito fã de JavaScript puro (claro, sem usar `any`...).
 
-Como estudante de **Sistemas para Internet na UTFPR**, quero aprofundar meus conhecimentos em conceitos e fundamentos importantes para tomar decisões relacionadas à inteligência artificial.
+## Como vou usar a IA
 
-## Por que TypeScript?
-
-Escolhi TypeScript porque permite aplicar conceitos de **programação orientada a objetos (POO)** em uma linguagem muito utilizada. Também prefiro trabalhar com TypeScript a usar JavaScript puro — e sem recorrer a `any`.
-
-
-VOcê também pode visualizar que tem um @agents.md aqui, sim vou utilizar a IA como forma de estudo guiado, tanto na refatoração e apontamento de erros, como vocês podem ver o Agents.md é público e você consegue visualizar que as instruções são claras, para ensinar e apontar erros de forma a me incentivar a penas sem dar a respsota pronta.
+Vou usar a IA como uma forma de estudo guiado, tanto para me ajudar na refatoração quanto para apontar meus erros. Você também pode conferir o [AGENTS.md](AGENTS.md): deixei as instruções públicas para orientar a IA a ensinar e me incentivar a pensar, sem dar a resposta pronta.
