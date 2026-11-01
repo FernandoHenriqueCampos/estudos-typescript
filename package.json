@@ -1,0 +1,13 @@
+{
+  "name": "pratica-typescript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercícios guiados para aprender TypeScript passo a passo",
+  "scripts": {
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^5.0.0"
+  }
+}
